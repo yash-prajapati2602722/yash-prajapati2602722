@@ -1,25 +1,28 @@
-# 👋 नमस्ते, मैं Yash Prajapati हूँ!
+<div align="center">
 
-### 💻 B.Tech CSE Student | AI & Local LLM Enthusiast
+  # ⚡ Yash Prajapati
 
-- 🎓 **शिक्षा:** Medi-Caps University से **B.Tech (Computer Science & Engineering)** [2026–2030]
-- 🛠️ **मुख्य रुचि:** Local LLMs (llamafile, GGUF), Python, C++ और AI सिस्टम्स
-- 🚀 **प्रोजेक्ट्स:** SooyNam-Ai और इंटेलिजेंट ऑटोमेशन टूल्स
-- 🧰 **टूल्स व तकनीक:** Python, C++, Linux, Git, Vercel, Netlify
+  ### 💻 B.Tech CSE Student | AI & Local LLM Enthusiast
+
+  <p align="center">
+    <a href="https://github.com/sooynam">
+      <img src="https://img.shields.io/github/followers/sooynam?label=Followers&style=for-the-badge&color=7289DA&logo=github" alt="GitHub Followers" />
+    </a>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
-### 🛠️ टेक्नोलॉजी और टूल्स
+### 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### 📊 GitHub आंकड़े
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sooynam&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooynam&layout=compact&theme=tokyonight)
+```yaml
+Education: B.Tech in Computer Science & Engineering @ Medi-Caps University (2026–2030)
+Core Interests: Local LLMs (llamafile, GGUF), AI Systems, Automation
+Current Focus: Building lightweight AI pipelines & fine-tuning models
